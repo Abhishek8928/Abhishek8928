@@ -1,16 +1,19 @@
+
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
 <h3 align="center">A passionate full stack web developer from India specialized in website development</h3>
+<img alt="" width= "400" align="right"  src="https://thumbs.gfycat.com/CompleteSimplisticGrizzlybear-max-1mb.gif" >
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek8928" alt="abhishek8928" /></a> </p>
-<img alt="" width= "400"  src="https://thumbs.gfycat.com/CompleteSimplisticGrizzlybear-max-1mb.gif" >
+
 <p align="left"> <a href="https://twitter.com/abhishekshax" target="blank"><img src="https://img.shields.io/twitter/follow/abhishekshax?logo=twitter&style=for-the-badge" alt="abhishekshax" /></a> </p>
 
-- 🔭 I’m currently learning [e-commerce website](superclick.vercel.app)
+- 🔭 I’m currently made e-commerce website [Superclick](superclick-an96h8l8d-abhishekshaxma8356-gmailcom.vercel.app)
 
 - 🌱 I’m currently learning **Mern stack**
 
-- 👯 I’m looking to collaborate on [All types of project](google-fi.vercel.app)
+- 👯 I’m looking to collaborate on All types of project [Google-fi](google-5cyjs3igl-abhishekshaxma8356-gmailcom.vercel.app)
+
 
 - 🤝 I’m looking for help with **React**
 
