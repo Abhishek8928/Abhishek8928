@@ -1,12 +1,9 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
 <h3 align="center">A passionate full stack web developer from India specialized in website development</h3>
-<img alt="" width= "400"  src="https://thumbs.gfycat.com/CompleteSimplisticGrizzlybear-max-1mb.gif" >
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek8928&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek8928" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek8928" alt="abhishek8928" /></a> </p>
-
+<img alt="" width= "400"  src="https://thumbs.gfycat.com/CompleteSimplisticGrizzlybear-max-1mb.gif" >
 <p align="left"> <a href="https://twitter.com/abhishekshax" target="blank"><img src="https://img.shields.io/twitter/follow/abhishekshax?logo=twitter&style=for-the-badge" alt="abhishekshax" /></a> </p>
 
 - 🔭 I’m currently learning [e-commerce website](superclick.vercel.app)
